@@ -1,0 +1,66 @@
+<ItemPools>
+    <Pool Name="planetarium">
+        <!--Lilith-->
+        <Item Name="Lilith" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Vulcan-->
+        <Item Name="Vulcan" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Ceres-->
+        <Item Name="Ceres" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Pallas-->
+        <Item Name="Pallas" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Juno-->
+        <Item Name="Juno" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Vesta-->
+        <Item Name="Vesta" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Astraea-->
+        <Item Name="Astraea" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Hebe-->
+        <Item Name="Hebe" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Iris-->
+        <Item Name="Iris" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Flora-->
+        <Item Name="Flora" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Metis-->
+        <Item Name="Metis" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Hygiea-->
+        <Item Name="Hygiea" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Parthenope-->
+        <Item Name="Parthenope" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Victoria-->
+        <Item Name="Victoria" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Irene-->
+        <Item Name="Irene" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Eunomia-->
+        <Item Name="Eunomia" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Galilean moons-->
+        <Item Name="Galilean moons" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Mimas-->
+        <Item Name="Mimas" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Enceladus-->
+        <Item Name="Enceladus" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Titan-->
+        <Item Name="Titan" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Ariel-->
+        <Item Name="Ariel" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Triton-->
+        <Item Name="Triton" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Charon-->
+        <Item Name="Charon" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Eris-->
+        <Item Name="Eris" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Makemake-->
+        <Item Name="Makemake" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Quaoar-->
+        <Item Name="Quaoar" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Haumea-->
+        <Item Name="Haumea" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Orcus-->
+        <Item Name="Orcus" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Gonggong-->
+        <Item Name="Gonggong" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Sedna-->
+        <Item Name="Sedna" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <!--Planet X-->
+        <Item Name="Planet X" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+</ItemPools>
