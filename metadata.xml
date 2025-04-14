@@ -1,0 +1,11 @@
+<metadata>
+    <name>More Planets and Constellations</name>
+    <directory>More-Planets-and-Constellations</directory>
+    <id>1145141919810??</id> <!-- Unique ID for the mod, can be any number -->
+    <description>test</description>
+    <version>0.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Trinkets"/>
+</metadata>

@@ -1,14 +1,14 @@
 <items gfxroot="gfx/items/" version="1"  deathanm2="gfx/death_items.anm2">
-    <passive id="1" name="Lilith" description="" gfx="Lilith.png" quality="" craftquality="" tags="summonable" cache="" />
-    <passive id="2" name="Vulcan" description="" gfx="Vulcan.png" quality="" craftquality="" tags="summonable" cache="" />
-    <passive id="3" name="Ceres" description="" gfx="Ceres.png" quality="" craftquality="" tags="summonable" cache="" />
-    <passive id="4" name="Pallas" description="" gfx="Pallas.png" quality="" craftquality="" tags="summonable" cache="" />
-    <passive id="5" name="Juno" description="" gfx="Juno.png" quality="" craftquality="" tags="summonable" cache="" />
-    <passive id="6" name="Vesta" description="" gfx="Vesta.png" quality="" craftquality="" tags="summonable" cache="" />
-    <passive id="7" name="Astraea" description="" gfx="Astraea.png" quality="" craftquality="" tags="summonable" cache="" />
-    <passive id="8" name="Hebe" description="" gfx="Hebe.png" quality="" craftquality="" tags="summonable" cache="" />
-    <passive id="9" name="Iris" description="" gfx="Iris.png" quality="" craftquality="" tags="summonable" cache="" />
-    <passive id="10" name="Flora" description="" gfx="Flora.png" quality="" craftquality="" tags="summonable" cache="" />
+    <passive id="1" name="Lilith" description="" gfx="Lilith.png" quality="3" craftquality="3" tags="summonable" cache="" />
+    <passive id="2" name="Vulcan" description="" gfx="Vulcan.png" quality="3" craftquality="3" tags="summonable" cache="" />
+    <passive id="3" name="Ceres" description="" gfx="Ceres.png" quality="3" craftquality="3" tags="summonable" cache="" />
+    <passive id="4" name="Pallas" description="" gfx="Pallas.png" quality="2" craftquality="2" tags="summonable" cache="" />
+    <passive id="5" name="Juno" description="" gfx="Juno.png" quality="2" craftquality="2" tags="summonable" cache="" />
+    <passive id="6" name="Vesta" description="" gfx="Vesta.png" quality="3" craftquality="3" tags="summonable" cache="" />
+    <passive id="7" name="Astraea" description="" gfx="Astraea.png" quality="2" craftquality="2" tags="summonable" cache="" />
+    <passive id="8" name="Hebe" description="" gfx="Hebe.png" quality="2" craftquality="2" tags="summonable" cache="" />
+    <passive id="9" name="Iris" description="" gfx="Iris.png" quality="3" craftquality="3" tags="summonable" cache="" />
+    <passive id="10" name="Flora" description="" gfx="Flora.png" quality="2" craftquality="2" tags="summonable" cache="" />
     <passive id="11" name="Metis" description="" gfx="Metis.png" quality="" craftquality="" tags="summonable" cache="" />
     <passive id="12" name="Hygiea" description="" gfx="Hygiea.png" quality="" craftquality="" tags="summonable" cache="" />
     <passive id="13" name="Parthenope" description="" gfx="Parthenope.png" quality="" craftquality="" tags="summonable" cache="" />

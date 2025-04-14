@@ -1,66 +1,66 @@
 <ItemPools>
     <Pool Name="planetarium">
-        <!--Lilith-->
+        <!--暗月Lilith-->
         <Item Name="Lilith" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Vulcan-->
+        <!--火神星Vulcan-->
         <Item Name="Vulcan" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Ceres-->
+        <!--谷神星Ceres-->
         <Item Name="Ceres" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Pallas-->
+        <!--智神星Pallas-->
         <Item Name="Pallas" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Juno-->
+        <!--婚神星Juno-->
         <Item Name="Juno" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Vesta-->
+        <!--灶神星Vesta-->
         <Item Name="Vesta" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Astraea-->
+        <!--义神星Astraea-->
         <Item Name="Astraea" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Hebe-->
+        <!--韶神星Hebe-->
         <Item Name="Hebe" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Iris-->
+        <!--虹神星Iris-->
         <Item Name="Iris" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Flora-->
+        <!--花神星Flora-->
         <Item Name="Flora" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Metis-->
+        <!--颖神星Metis-->
         <Item Name="Metis" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Hygiea-->
+        <!--健神星Hygiea-->
         <Item Name="Hygiea" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Parthenope-->
+        <!--海妖星Parthenope-->
         <Item Name="Parthenope" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Victoria-->
+        <!--凯神星Victoria-->
         <Item Name="Victoria" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Irene-->
+        <!--司宁心Irene-->
         <Item Name="Irene" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Eunomia-->
+        <!--司法星Eunomia-->
         <Item Name="Eunomia" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Galilean moons-->
+        <!--伽利略卫星Galilean moons-->
         <Item Name="Galilean moons" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Mimas-->
+        <!--木卫一Mimas-->
         <Item Name="Mimas" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Enceladus-->
+        <!--木卫二Enceladus-->
         <Item Name="Enceladus" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Titan-->
+        <!--木卫六Titan-->
         <Item Name="Titan" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Ariel-->
+        <!--天卫一Ariel-->
         <Item Name="Ariel" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Triton-->
+        <!--海卫一Triton-->
         <Item Name="Triton" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Charon-->
+        <!--冥卫一Charon-->
         <Item Name="Charon" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Eris-->
+        <!--阋神星Eris-->
         <Item Name="Eris" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Makemake-->
+        <!--鸟神星Makemake-->
         <Item Name="Makemake" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Quaoar-->
+        <!--创神星Quaoar-->
         <Item Name="Quaoar" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Haumea-->
+        <!--妊神星Haumea-->
         <Item Name="Haumea" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Orcus-->
+        <!--亡神星Orcus-->
         <Item Name="Orcus" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Gonggong-->
+        <!--共工星Gonggong-->
         <Item Name="Gonggong" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Sedna-->
+        <!--塞德娜Sedna-->
         <Item Name="Sedna" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
-        <!--Planet X-->
+        <!--X行星Planet X-->
         <Item Name="Planet X" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
     </Pool>
 </ItemPools>
